@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. In ancient times, cats were worshipped as gods; they have not forgotten this. <br /> ~ T.Prachett.
+  Welcome to ${PREFIX}'s app. Learn to github chris.  Learn better.
   <!-- END -->
   
   </div>
